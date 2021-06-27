@@ -10,3 +10,6 @@
 
 ## NOTE : 
 This Project is a prototype developed during the hackathon time period of 36hrs, so in no way is this a fully developed app just a concept idea of telling how the shopping might look like in the future using Augmented Reality. 
+
+## PPT Link :
+- https://drive.google.com/file/d/1UkqGuLChov9Wbi4jX_Eo_OrtMv4coO5r/view?usp=sharing
