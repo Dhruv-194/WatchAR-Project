@@ -15,5 +15,5 @@ This Project is a prototype developed during the hackathon time period of 36hrs,
 - https://drive.google.com/file/d/1UkqGuLChov9Wbi4jX_Eo_OrtMv4coO5r/view?usp=sharing
 
 ## APK Link : 
-(Sujected to the hardware compatibility of the phone) 
+(Subjected to the hardware compatibility of the phone) 
 - https://drive.google.com/file/d/1XBE4Eto3CbQcTgIj4tqe2pWIi3hE6sXK/view?usp=sharing
