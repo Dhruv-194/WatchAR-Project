@@ -17,3 +17,7 @@ This Project is a prototype developed during the hackathon time period of 36hrs,
 ## APK Link : 
 (Subjected to the hardware compatibility of the phone) 
 - https://drive.google.com/file/d/1XBE4Eto3CbQcTgIj4tqe2pWIi3hE6sXK/view?usp=sharing
+
+## Screenshots of the app 
+
+<img src = "Screenshots/Screenshot_20210627-120757.png" width = "200" height = "400" > <img src = "Screenshots/Screenshot_20210627-120817.png" width = "200" height = "400" hspace="20"> <img src = "Screenshots/Screenshot_20210627-120925.png" width = "200" height = "400" > <img src = "Screenshots/Screenshot_20210627-122930.png" width = "200" height = "400" hspace="20">
