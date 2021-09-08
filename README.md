@@ -20,4 +20,6 @@ This Project is a prototype developed during the hackathon time period of 36hrs,
 
 ## Screenshots of the app 
 
-<img src = "Screenshots/Screenshot_20210627-120757.png" width = "200" height = "400" > <img src = "Screenshots/Screenshot_20210627-120817.png" width = "200" height = "400" hspace="20"> <img src = "Screenshots/Screenshot_20210627-120925.png" width = "200" height = "400" > <img src = "Screenshots/Screenshot_20210627-122930.png" width = "200" height = "400" hspace="20">
+<img src = "Screenshots/Screenshot_20210627-120757.png" width = "200" height = "400" > <img src = "Screenshots/Screenshot_20210627-120817.png" width = "200" height = "400" hspace="20"> 
+<br>
+<img src = "Screenshots/Screenshot_20210627-120925.png" width = "200" height = "400" > <img src = "Screenshots/Screenshot_20210627-122930.png" width = "200" height = "400" hspace="20">
