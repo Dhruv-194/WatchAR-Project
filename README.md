@@ -8,6 +8,13 @@
  
  STEP 2 - The user can then view the wrist watch and even augment it on his/her wrist and see how it might look when they buy it in real life. 
 
+## Technologies used : 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+<br>
+[<img src="https://static.wixstatic.com/media/c42fea_d1fbddac9a524f16b3d4456d639b444a~mv2.png/v1/fill/w_750,h_375,al_c/c42fea_d1fbddac9a524f16b3d4456d639b444a~mv2.png" width="90" height="40">](https://www.echoar.xyz/)
+<br>
+[<img src="https://raw.githubusercontent.com/iamchathu/awesome-vuforia/master/vuforia-color.png" width="120" height="40">](https://vuforia.com/)
+
 ## NOTE : 
 This Project is a prototype developed during the hackathon time period of 36hrs, so in no way is this a fully developed app just a concept idea of telling how the shopping might look like in the future using Augmented Reality. 
 
