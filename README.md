@@ -1,5 +1,7 @@
 # WatchAR-Project
 
+> ### Official winning submission in the [echoAR category](https://twitter.com/wilder569/status/1416516166726479872?s=20) at [Hack the Mountains 2.0](https://hackthemountain.tech/) hackathon. 
+
 ## About the project : 
  The Project WatchAR gives the user a deeper dive into the future by engaging them through an Augmented Reality Experience.
 
